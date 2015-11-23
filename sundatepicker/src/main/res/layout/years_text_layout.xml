@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/year"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:alpha="0.7"
+        android:background="@android:color/transparent"
+        android:gravity="center"
+        android:padding="3dp"
+        android:rotationY="180"
+        android:text=""
+        android:textColor="@color/gray"
+        android:textSize="20sp" />
+
+</LinearLayout>

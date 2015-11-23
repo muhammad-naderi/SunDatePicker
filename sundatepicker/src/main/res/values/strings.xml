@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SunDate Picker</string>
+    <string name="ok">تائید</string>
+    <string name="cancel">انصراف</string>
+    <string name="date1">تاریخ شروع</string>
+    <string name="date2">تاریخ پایان</string>
+    <string name="red_color">رنگ قرمز</string>
+    <string name="default_font">فونت پیشفرض</string>
+    <string name="dark_theme">پوسته تیره</string>
+    <string name="only_today">عدم نمایش آینده</string>
+</resources>
