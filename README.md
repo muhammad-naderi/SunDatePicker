@@ -22,5 +22,5 @@ Add it in your build.gradle at the end of repositories:
 Step 2. Add the dependency in the form
 
 	dependencies {
-	        compile 'com.github.muhammad-naderi:SunDatePicker:5c05b50d58'
+		compile 'com.github.muhammad-naderi:SunDatePicker:1.0'
 	}
