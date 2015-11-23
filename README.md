@@ -14,10 +14,11 @@ https://github.com/alirezaafkar/SunDate_Picker
 
 Add it in your build.gradle at the end of repositories:
 
- repositories {
-        // ...
-        maven { url "https://jitpack.io" }
- }
+	 repositories {
+	        // ...
+	        maven { url "https://jitpack.io" }
+	 }
+ 
 Step 2. Add the dependency in the form
 
 	dependencies {
